@@ -9,7 +9,7 @@
   <div id="wrapper">
     <div id="contents">
       <article>
-        <div id="main-column" style="padding-top: 45px;">
+        <div id="main-column" style="padding-top: 0px;">
           <table id="enter" cellspacing="0" cellpadding="0" border="0">
             <?php
             $flag_send = false;
