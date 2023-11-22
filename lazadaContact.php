@@ -54,7 +54,7 @@
 			<div class="fusion-page-title-wrapper">
 				<div class="fusion-page-title-captions">
 
-																							<h1 class="entry-title fusion-responsive-typography-calculated" data-fontsize="20" style="--fontSize: 20; line-height: 1.08; --minFontSize: 20;" data-lineheight="21.6px">プラットフォーム事業関連のお問い合わせ</h1>
+																							<h1 class="entry-title fusion-responsive-typography-calculated" data-fontsize="20" style="--fontSize: 20; line-height: 1.08; --minFontSize: 20;" data-lineheight="21.6px">東南アジア事業関連のお問い合わせ</h1>
 
 											
 					
@@ -69,7 +69,7 @@
 				<div class="fusion-row" style="">
 <section id="content" style="width: 100%;">
 					<div id="post-14225" class="post-14225 page type-page status-publish hentry">
-			<span class="entry-title rich-snippet-hidden">プラットフォーム事業関連のお問い合わせ</span>
+			<span class="entry-title rich-snippet-hidden">東南アジア事業関連のお問い合わせ</span>
 			
 			<div class="post-content">
 				<div class="fusion-fullwidth fullwidth-box fusion-builder-row-1 nonhundred-percent-fullwidth non-hundred-percent-height-scrolling" style="--awb-border-radius-top-left:0px;--awb-border-radius-top-right:0px;--awb-border-radius-bottom-right:0px;--awb-border-radius-bottom-left:0px;--awb-flex-wrap:wrap;"><div class="fusion-builder-row fusion-row"><div class="fusion-layout-column fusion_builder_column fusion-builder-column-0 fusion_builder_column_1_5 1_5 fusion-one-fifth fusion-column-first" style="--awb-bg-size:cover;width:20%;width:calc(20% - ( ( 4% + 4% ) * 0.2 ) );margin-right: 4%;"><div class="fusion-column-wrapper fusion-flex-column-wrapper-legacy"><div class="fusion-clearfix"></div></div></div><div class="fusion-layout-column fusion_builder_column fusion-builder-column-1 fusion_builder_column_3_5 3_5 fusion-three-fifth" style="--awb-bg-size:cover;width:60%;width:calc(60% - ( ( 4% + 4% ) * 0.6 ) );margin-right: 4%;"><div class="fusion-column-wrapper fusion-flex-column-wrapper-legacy"><div role="form" class="wpcf7" id="wpcf7-f14227-p14225-o1" lang="ja" dir="ltr">
@@ -86,7 +86,7 @@
 </div>
 <p>※出店には審査がございます。<br>
 ご期待に添えない場合もございますのであらかじめご了承ください</p>
-<p><span class="wpcf7-form-control-wrap checkbox-285"><span class="wpcf7-form-control wpcf7-checkbox"><span class="wpcf7-list-item first"><input type="checkbox" name="checkbox-285[]" value="中国に自社商品を販売したい"><span class="wpcf7-list-item-label">中国に自社商品を販売したい</span></span><span class="wpcf7-list-item last"><input type="checkbox" name="checkbox-285[]" value="中国に商品を卸したい"><span class="wpcf7-list-item-label">中国に商品を卸したい</span></span></span></span></p>
+<p><span class="wpcf7-form-control-wrap checkbox-285"><span class="wpcf7-form-control wpcf7-checkbox"><span class="wpcf7-list-item first"><input type="checkbox" name="checkbox-285[]" value="Lazadaに旗艦店を出店したい"><span class="wpcf7-list-item-label">Lazadaに旗艦店を出店したい</span></span><span class="wpcf7-list-item last"><input type="checkbox" name="checkbox-285[]" value="Lazadaプラットフォーム内の「豌豆公主（ワンドウ）」の旗艦店に商品を出品したい"><span class="wpcf7-list-item-label">Lazadaプラットフォーム内の「豌豆公主（ワンドウ）」の旗艦店に商品を出品したい</span></span></span></span></p>
 <p><label> 御社名<br>
     <span class="wpcf7-form-control-wrap text-company-name"><input type="text" name="text-company-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false"></span></label></p>
 <p><label> ご担当者名 <br>

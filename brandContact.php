@@ -54,7 +54,7 @@
 			<div class="fusion-page-title-wrapper">
 				<div class="fusion-page-title-captions">
 
-																							<h1 class="entry-title fusion-responsive-typography-calculated" data-fontsize="20" style="--fontSize: 20; line-height: 1.08; --minFontSize: 20;" data-lineheight="21.6px">プラットフォーム事業関連のお問い合わせ</h1>
+																							<h1 class="entry-title fusion-responsive-typography-calculated" data-fontsize="20" style="--fontSize: 20; line-height: 1.08; --minFontSize: 20;" data-lineheight="21.6px">ブランドインキュベーション事業関連のお問い合わせ</h1>
 
 											
 					
@@ -69,7 +69,7 @@
 				<div class="fusion-row" style="">
 <section id="content" style="width: 100%;">
 					<div id="post-14225" class="post-14225 page type-page status-publish hentry">
-			<span class="entry-title rich-snippet-hidden">プラットフォーム事業関連のお問い合わせ</span>
+			<span class="entry-title rich-snippet-hidden">ブランドインキュベーション事業関連のお問い合わせ</span>
 			
 			<div class="post-content">
 				<div class="fusion-fullwidth fullwidth-box fusion-builder-row-1 nonhundred-percent-fullwidth non-hundred-percent-height-scrolling" style="--awb-border-radius-top-left:0px;--awb-border-radius-top-right:0px;--awb-border-radius-bottom-right:0px;--awb-border-radius-bottom-left:0px;--awb-flex-wrap:wrap;"><div class="fusion-builder-row fusion-row"><div class="fusion-layout-column fusion_builder_column fusion-builder-column-0 fusion_builder_column_1_5 1_5 fusion-one-fifth fusion-column-first" style="--awb-bg-size:cover;width:20%;width:calc(20% - ( ( 4% + 4% ) * 0.2 ) );margin-right: 4%;"><div class="fusion-column-wrapper fusion-flex-column-wrapper-legacy"><div class="fusion-clearfix"></div></div></div><div class="fusion-layout-column fusion_builder_column fusion-builder-column-1 fusion_builder_column_3_5 3_5 fusion-three-fifth" style="--awb-bg-size:cover;width:60%;width:calc(60% - ( ( 4% + 4% ) * 0.6 ) );margin-right: 4%;"><div class="fusion-column-wrapper fusion-flex-column-wrapper-legacy"><div role="form" class="wpcf7" id="wpcf7-f14227-p14225-o1" lang="ja" dir="ltr">
