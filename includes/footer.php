@@ -84,9 +84,6 @@
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12966"
                                         style="padding-left:1em;"><a href="https://www.inagora.com/lazada/">東南アジア事業</a>
                                     </li>
-                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12966"
-                                        style="padding-left:1em;"><a
-                                            href="https://www.inagora.com/inbound-regionalcreation/">インバウンド事業</a></li>
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12969"
                                         style="padding-left:1em;"><a
                                             href="https://www.inagora.com/crossborder/">越境ECとは？市場規模について</a></li>
