@@ -12,47 +12,6 @@
 
 
 <main id="main" class="clearfix width-100">
-    <div class="fusion-row" style="max-width:100%;">
-        <section id="content" class="full-width">
-            <div id="post-15075" class="post-15075 page type-page status-publish hentry">
-                <span class="entry-title rich-snippet-hidden">東南アジア・台湾事業</span>
-                <div class="post-content">
-                    <div class="fusion-fullwidth fullwidth-box fusion-builder-row-1 fusion-parallax-none nonhundred-percent-fullwidth non-hundred-percent-height-scrolling"
-                        style="--link_color:#fcfcfc;--awb-background-position:left bottom;--awb-border-radius-top-left:0px;--awb-border-radius-top-right:0px;--awb-border-radius-bottom-right:0px;--awb-border-radius-bottom-left:0px;--awb-padding-top:150px;--awb-padding-bottom:150px;--awb-margin-bottom:50px;--awb-background-image:url(https://www.inagora.com/wp-content/uploads/2020/10/image-scaled.jpg);--awb-background-size:cover;--awb-flex-wrap:wrap">
-                        <div class="fusion-builder-row fusion-row">
-                            <div class="fusion-layout-column fusion_builder_column fusion-builder-column-0 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last"
-                                style="--awb-padding-top:0px;--awb-padding-right:0px;--awb-padding-bottom:0px;--awb-padding-left:0px;--awb-bg-size:cover;">
-                                <div
-                                    class="fusion-column-wrapper fusion-column-has-shadow fusion-flex-column-wrapper-legacy">
-                                    <div class="fusion-title title fusion-title-1 fusion-sep-none fusion-title-center fusion-title-text fusion-title-size-one"
-                                        style="--awb-text-color:#ffffff;--awb-margin-bottom:0px;--awb-margin-bottom-small:0px;--awb-font-size:300%;">
-                                        <h1 class="fusion-title-heading title-heading-center"
-                                            style="margin:0;font-size:1em;letter-spacing:0.8pt;line-height:125%;">
-                                            <p><span style="color: #ffffff;">東南アジア・台湾事業</span></p>
-                                            <p><span style="color: #ffffff;"><audio style="display: none;"
-                                                        controls="controls"></audio></span></p>
-                                            <p><span style="color: #ffffff;"><audio style="display: none;"
-                                                        controls="controls"></audio></span></p>
-                                            <p><span style="color: #ffffff;"><audio style="display: none;"
-                                                        controls="controls"></audio></span></p>
-                                            <p><span style="color: #ffffff;"><audio style="display: none;"
-                                                        controls="controls"></audio></span></p>
-                                            <p><span style="color: #ffffff;"><audio style="display: none;"
-                                                        controls="controls"></audio></span></p>
-                                        </h1>
-                                    </div>
-                                    <div class="fusion-clearfix"></div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="fusion-builder-row fusion-row"></div>
-                    </div>
-                </div>
-                <div class="fusion-clearfix"></div>
-            </div>
-    </div>
-    </div>
-    </div>
     <div class="fusion-fullwidth fullwidth-box fusion-builder-row-5 fusion-flex-container nonhundred-percent-fullwidth non-hundred-percent-height-scrolling"
         style="--awb-border-radius-top-left:0px;--awb-border-radius-top-right:0px;--awb-border-radius-bottom-right:0px;--awb-border-radius-bottom-left:0px;--awb-padding-top:0px;--awb-margin-top:29px;--awb-flex-wrap:wrap;">
         <div class="fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap"
@@ -65,9 +24,9 @@
                         style="text-align:center;--awb-caption-title-font-family:var(--h2_typography-font-family);--awb-caption-title-font-weight:var(--h2_typography-font-weight);--awb-caption-title-font-style:var(--h2_typography-font-style);--awb-caption-title-size:var(--h2_typography-font-size);--awb-caption-title-transform:var(--h2_typography-text-transform);--awb-caption-title-line-height:var(--h2_typography-line-height);--awb-caption-title-letter-spacing:var(--h2_typography-letter-spacing);">
                         <span class=" fusion-imageframe imageframe-none imageframe-3 hover-type-none"><img width="600"
                                 height="515" title="Lazada-map"
-                                src="https://www.inagora.com/wp-content/uploads/2020/10/Lazada-map-600x515.png" alt
+                                src="./assets/img/Lazada-map-600x515.png" alt
                                 class="img-responsive wp-image-15081"
-                                srcset="https://www.inagora.com/wp-content/uploads/2020/10/Lazada-map-200x172.png 200w, https://www.inagora.com/wp-content/uploads/2020/10/Lazada-map-400x343.png 400w, https://www.inagora.com/wp-content/uploads/2020/10/Lazada-map-600x515.png 600w, https://www.inagora.com/wp-content/uploads/2020/10/Lazada-map-800x686.png 800w, https://www.inagora.com/wp-content/uploads/2020/10/Lazada-map.png 1067w"
+                                srcset="./assets/img/Lazada-map-200x172.png 200w, ./assets/img/Lazada-map-400x343.png 400w, ./assets/img/Lazada-map-600x515.png 600w, ./assets/img/Lazada-map-800x686.png 800w, ./assets/img/Lazada-map.png 1067w"
                                 sizes="(max-width: 1024px) 100vw, (max-width: 640px) 100vw, 600px"
                                 pagespeed_url_hash="897702310"
                                 onload="pagespeed.CriticalImages.checkImageForCriticality(this);" /></span></div>
@@ -106,9 +65,9 @@
                         <div class="imageframe-align-center"><span
                                 class=" fusion-imageframe imageframe-none imageframe-4 hover-type-none"><img width="400"
                                     height="487" title="graph-1"
-                                    src="https://www.inagora.com/wp-content/uploads/2020/10/graph-1-400x487.png" alt
+                                    src="./assets/img/graph-1-400x487.png" alt
                                     class="img-responsive wp-image-15102"
-                                    srcset="https://www.inagora.com/wp-content/uploads/2020/10/graph-1-200x243.png 200w, https://www.inagora.com/wp-content/uploads/2020/10/graph-1-400x487.png 400w, https://www.inagora.com/wp-content/uploads/2020/10/graph-1.png 429w"
+                                    srcset="./assets/img/graph-1-200x243.png 200w, ./assets/img/graph-1-400x487.png 400w, ./assets/img/graph-1.png 429w"
                                     sizes="(max-width: 800px) 100vw, 400px" pagespeed_url_hash="938383242"
                                     onload="pagespeed.CriticalImages.checkImageForCriticality(this);" /></span></div>
                     </div>
@@ -127,9 +86,9 @@
                         <div class="imageframe-align-center"><span
                                 class=" fusion-imageframe imageframe-none imageframe-5 hover-type-none"><img width="800"
                                     height="484" title="graph-2"
-                                    src="https://www.inagora.com/wp-content/uploads/2020/10/graph-2-2-800x484.png" alt
+                                    src="./assets/img/graph-2-2-800x484.png" alt
                                     class="img-responsive wp-image-15115"
-                                    srcset="https://www.inagora.com/wp-content/uploads/2020/10/graph-2-2-200x121.png 200w, https://www.inagora.com/wp-content/uploads/2020/10/graph-2-2-400x242.png 400w, https://www.inagora.com/wp-content/uploads/2020/10/graph-2-2-600x363.png 600w, https://www.inagora.com/wp-content/uploads/2020/10/graph-2-2-800x484.png 800w, https://www.inagora.com/wp-content/uploads/2020/10/graph-2-2.png 972w"
+                                    srcset="./assets/img/graph-2-2-200x121.png 200w, ./assets/img/graph-2-2-400x242.png 400w, ./assets/img/graph-2-2-600x363.png 600w, ./assets/img/graph-2-2-800x484.png 800w, ./assets/img/graph-2-2.png 972w"
                                     sizes="(max-width: 800px) 100vw, 800px" pagespeed_url_hash="82181349"
                                     onload="pagespeed.CriticalImages.checkImageForCriticality(this);" /></span></div>
                     </div>
@@ -168,9 +127,9 @@
                         style="text-align:center;--awb-margin-bottom:3%;--awb-caption-title-font-family:var(--h2_typography-font-family);--awb-caption-title-font-weight:var(--h2_typography-font-weight);--awb-caption-title-font-style:var(--h2_typography-font-style);--awb-caption-title-size:var(--h2_typography-font-size);--awb-caption-title-transform:var(--h2_typography-text-transform);--awb-caption-title-line-height:var(--h2_typography-line-height);--awb-caption-title-letter-spacing:var(--h2_typography-letter-spacing);">
                         <span class=" fusion-imageframe imageframe-none imageframe-6 hover-type-none"><img width="722"
                                 height="400" title="グラフィックス1"
-                                src="https://www.inagora.com/wp-content/uploads/2021/12/グラフィックス1.png" alt
+                                src="./assets/img/グラフィックス1.png" alt
                                 class="img-responsive wp-image-16585"
-                                srcset="https://www.inagora.com/wp-content/uploads/2021/12/グラフィックス1-200x111.png 200w, https://www.inagora.com/wp-content/uploads/2021/12/グラフィックス1-400x222.png 400w, https://www.inagora.com/wp-content/uploads/2021/12/グラフィックス1-600x332.png 600w, https://www.inagora.com/wp-content/uploads/2021/12/グラフィックス1.png 722w"
+                                srcset="./assets/img/グラフィックス1-200x111.png 200w, ./assets/img/グラフィックス1-400x222.png 400w, ./assets/img/グラフィックス1-600x332.png 600w, ./assets/img/グラフィックス1.png 722w"
                                 sizes="(max-width: 1024px) 100vw, (max-width: 640px) 100vw, 722px" /></span></div>
                 </div>
             </div>
@@ -208,9 +167,9 @@
                 <div class="imageframe-align-center"><span
                         class=" fusion-imageframe imageframe-none imageframe-10 hover-type-none"><img width="729"
                             height="213" title="wandou-pop"
-                            src="https://www.inagora.com/wp-content/uploads/2020/10/wandou-pop.png" alt
+                            src="./assets/img/wandou-pop.png" alt
                             class="img-responsive wp-image-15149"
-                            srcset="https://www.inagora.com/wp-content/uploads/2020/10/wandou-pop-200x58.png 200w, https://www.inagora.com/wp-content/uploads/2020/10/wandou-pop-400x117.png 400w, https://www.inagora.com/wp-content/uploads/2020/10/wandou-pop-600x175.png 600w, https://www.inagora.com/wp-content/uploads/2020/10/wandou-pop.png 729w"
+                            srcset="./assets/img/wandou-pop-200x58.png 200w, ./assets/img/wandou-pop-400x117.png 400w, ./assets/img/wandou-pop-600x175.png 600w, ./assets/img/wandou-pop.png 729w"
                             sizes="(max-width: 800px) 100vw, 729px" pagespeed_url_hash="1193887734"
                             onload="pagespeed.CriticalImages.checkImageForCriticality(this);" /></span></div>
             </div>
@@ -239,10 +198,6 @@
         </div>
     </div>
     </div>
-    </div>
-    </section>
-
-    </div> <!-- fusion-row -->
 </main> <!-- #main -->
 
 

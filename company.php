@@ -164,9 +164,9 @@
 													<span
 														class=" fusion-imageframe imageframe-none imageframe-1 hover-type-none"><img
 															width="240" height="33" title="inagora-china"
-															src="https://www.inagora.com/wp-content/uploads/2020/10/inagora-china.png"
+															src="./assets/img/inagora-china.png"
 															alt class="img-responsive wp-image-15157"
-															srcset="https://www.inagora.com/wp-content/uploads/2020/10/inagora-china-200x28.png 200w, https://www.inagora.com/wp-content/uploads/2020/10/inagora-china.png 240w"
+															srcset="./assets/img/inagora-china-200x28.png 200w, ./assets/img/inagora-china.png 240w"
 															sizes="(max-width: 1024px) 100vw, (max-width: 640px) 100vw, 240px" /></span>
 												</div>
 												<div class="fusion-builder-row fusion-builder-row-inner fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap"
@@ -186,9 +186,9 @@
 																		class="fusion-no-lightbox" href="/platform/"
 																		target="_self" aria-label="PF_202303"><img
 																			width="150" height="150"
-																			src="https://www.inagora.com/wp-content/uploads/2023/03/PF_202303-150x150.png"
+																			src="./assets/img/PF_202303-150x150.png"
 																			alt class="img-responsive wp-image-17410"
-																			srcset="https://www.inagora.com/wp-content/uploads/2023/03/PF_202303-200x200.png 200w, https://www.inagora.com/wp-content/uploads/2023/03/PF_202303.png 291w"
+																			srcset="./assets/img/PF_202303-200x200.png 200w, ./assets/img/PF_202303.png 291w"
 																			sizes="(max-width: 1024px) 100vw, (max-width: 640px) 100vw, 150px" /></a></span>
 															</div>
 														</div>
@@ -210,9 +210,9 @@
 																		href="/brand_incubation/" target="_self"
 																		aria-label="81e68b6f-c050-4cd9-8f95-7a60559b5b36"><img
 																			width="150" height="150"
-																			src="https://www.inagora.com/wp-content/uploads/2023/04/81e68b6f-c050-4cd9-8f95-7a60559b5b36-150x150.png"
+																			src="./assets/img/81e68b6f-c050-4cd9-8f95-7a60559b5b36-150x150.png"
 																			alt class="img-responsive wp-image-17467"
-																			srcset="https://www.inagora.com/wp-content/uploads/2023/04/81e68b6f-c050-4cd9-8f95-7a60559b5b36-200x200.png 200w, https://www.inagora.com/wp-content/uploads/2023/04/81e68b6f-c050-4cd9-8f95-7a60559b5b36.png 291w"
+																			srcset="./assets/img/81e68b6f-c050-4cd9-8f95-7a60559b5b36-200x200.png 200w, ./assets/img/81e68b6f-c050-4cd9-8f95-7a60559b5b36.png 291w"
 																			sizes="(max-width: 1024px) 100vw, (max-width: 640px) 100vw, 150px" /></a></span>
 															</div>
 														</div>
@@ -229,9 +229,9 @@
 													<span
 														class=" fusion-imageframe imageframe-none imageframe-4 hover-type-none"><img
 															width="240" height="33" title="inagora-southeastasia"
-															src="https://www.inagora.com/wp-content/uploads/2020/10/inagora-southeastasia.png"
+															src="./assets/img/inagora-southeastasia.png"
 															alt class="img-responsive wp-image-15160"
-															srcset="https://www.inagora.com/wp-content/uploads/2020/10/inagora-southeastasia-200x28.png 200w, https://www.inagora.com/wp-content/uploads/2020/10/inagora-southeastasia.png 240w"
+															srcset="./assets/img/inagora-southeastasia-200x28.png 200w, ./assets/img/inagora-southeastasia.png 240w"
 															sizes="(max-width: 1024px) 100vw, (max-width: 640px) 100vw, 240px" /></span>
 												</div>
 												<div class="fusion-builder-row fusion-builder-row-inner fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap"
@@ -252,7 +252,7 @@
 																		href="/lazada/#lazadapartner" target="_self"
 																		aria-label="lazada-partner"><img width="160"
 																			height="160"
-																			src="https://www.inagora.com/wp-content/uploads/2020/10/lazada-partner.png"
+																			src="./assets/img/lazada-partner.png"
 																			alt
 																			class="img-responsive wp-image-15155" /></a></span>
 															</div>
@@ -273,7 +273,7 @@
 																		href="/lazada/#flagshipstore" target="_self"
 																		aria-label="lazada-pop"><img width="160"
 																			height="160"
-																			src="https://www.inagora.com/wp-content/uploads/2020/10/lazada-pop.png"
+																			src="./assets/img/lazada-pop.png"
 																			alt
 																			class="img-responsive wp-image-15156" /></a></span>
 															</div>

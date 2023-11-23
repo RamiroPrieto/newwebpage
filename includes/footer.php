@@ -81,7 +81,7 @@
                                         style="padding-left:1em;"><a
                                             href="brand_incubation">ブランドインキュベーション事業</a></li>
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12966"
-                                        style="padding-left:1em;"><a href="lazada">東南アジア事業</a>
+                                        style="padding-left:1em;"><a href="southeast_asia_taiwan">東南アジア事業</a>
                                     </li>
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12969"
                                         style="padding-left:1em;"><a

@@ -207,9 +207,9 @@
 											<div class="imageframe-align-center"><span
 													class=" fusion-imageframe imageframe-none imageframe-1 hover-type-none"><img
 														width="3594" height="1943" title="日米中マクロ環境_2023"
-														src="https://www.inagora.com/wp-content/uploads/2023/03/日米中マクロ環境_2023.png"
+														src="./assets/img/日米中マクロ環境_2023.png"
 														alt class="img-responsive wp-image-17415"
-														srcset="https://www.inagora.com/wp-content/uploads/2023/03/日米中マクロ環境_2023-200x108.png 200w, https://www.inagora.com/wp-content/uploads/2023/03/日米中マクロ環境_2023-400x216.png 400w, https://www.inagora.com/wp-content/uploads/2023/03/日米中マクロ環境_2023-600x324.png 600w, https://www.inagora.com/wp-content/uploads/2023/03/日米中マクロ環境_2023-800x432.png 800w, https://www.inagora.com/wp-content/uploads/2023/03/日米中マクロ環境_2023-1200x649.png 1200w, https://www.inagora.com/wp-content/uploads/2023/03/日米中マクロ環境_2023.png 3594w"
+														srcset="./assets/img/日米中マクロ環境_2023-200x108.png 200w, ./assets/img/日米中マクロ環境_2023-400x216.png 400w, ./assets/img/日米中マクロ環境_2023-600x324.png 600w, ./assets/img/日米中マクロ環境_2023-800x432.png 800w, ./assets/img/日米中マクロ環境_2023-1200x649.png 1200w, ./assets/img/日米中マクロ環境_2023.png 3594w"
 														sizes="(max-width: 800px) 100vw, 800px" /></span></div>
 										</div>
 										<div class="fusion-text fusion-text-11">
@@ -277,9 +277,9 @@
 											<div class="imageframe-align-center"><span
 													class=" fusion-imageframe imageframe-none imageframe-2 hover-type-none"><img
 														width="1024" height="682" title="EC市場国別割合_2021"
-														src="https://www.inagora.com/wp-content/uploads/2023/03/EC市場国別割合_2021-1024x682.png"
+														src="./assets/img/EC市場国別割合_2021-1024x682.png"
 														alt class="img-responsive wp-image-17392"
-														srcset="https://www.inagora.com/wp-content/uploads/2023/03/EC市場国別割合_2021-200x133.png 200w, https://www.inagora.com/wp-content/uploads/2023/03/EC市場国別割合_2021-400x267.png 400w, https://www.inagora.com/wp-content/uploads/2023/03/EC市場国別割合_2021-600x400.png 600w, https://www.inagora.com/wp-content/uploads/2023/03/EC市場国別割合_2021-800x533.png 800w, https://www.inagora.com/wp-content/uploads/2023/03/EC市場国別割合_2021-1200x800.png 1200w"
+														srcset="./assets/img/EC市場国別割合_2021-200x133.png 200w, ./assets/img/EC市場国別割合_2021-400x267.png 400w, ./assets/img/EC市場国別割合_2021-600x400.png 600w, ./assets/img/EC市場国別割合_2021-800x533.png 800w, ./assets/img/EC市場国別割合_2021-1200x800.png 1200w"
 														sizes="(max-width: 800px) 100vw, 800px" /></span></div>
 										</div>
 										<div class="fusion-text fusion-text-14">
@@ -336,9 +336,9 @@
 											<span
 												class=" fusion-imageframe imageframe-none imageframe-3 hover-type-none"><img
 													width="2570" height="1928" title="EC市場規模2020_2021"
-													src="https://www.inagora.com/wp-content/uploads/2023/03/EC市場規模2020_2021.png"
+													src="./assets/img/EC市場規模2020_2021.png"
 													alt class="img-responsive wp-image-17396"
-													srcset="https://www.inagora.com/wp-content/uploads/2023/03/EC市場規模2020_2021-200x150.png 200w, https://www.inagora.com/wp-content/uploads/2023/03/EC市場規模2020_2021-400x300.png 400w, https://www.inagora.com/wp-content/uploads/2023/03/EC市場規模2020_2021-600x450.png 600w, https://www.inagora.com/wp-content/uploads/2023/03/EC市場規模2020_2021-800x600.png 800w, https://www.inagora.com/wp-content/uploads/2023/03/EC市場規模2020_2021-1200x900.png 1200w, https://www.inagora.com/wp-content/uploads/2023/03/EC市場規模2020_2021.png 2570w"
+													srcset="./assets/img/EC市場規模2020_2021-200x150.png 200w, ./assets/img/EC市場規模2020_2021-400x300.png 400w, ./assets/img/EC市場規模2020_2021-600x450.png 600w, ./assets/img/EC市場規模2020_2021-800x600.png 800w, ./assets/img/EC市場規模2020_2021-1200x900.png 1200w, ./assets/img/EC市場規模2020_2021.png 2570w"
 													sizes="(max-width: 800px) 100vw, 600px" /></span></div>
 										<div class="fusion-sep-clear"></div>
 										<div class="fusion-separator fusion-no-medium-visibility fusion-no-large-visibility fusion-full-width-sep"
@@ -360,9 +360,9 @@
 											<div class="imageframe-align-center"><span
 													class=" fusion-imageframe imageframe-none imageframe-4 hover-type-none"><img
 														width="2601" height="1870" title="CN越境EC市場規模2023"
-														src="https://www.inagora.com/wp-content/uploads/2023/03/CN越境EC市場規模2023-1.png"
+														src="./assets/img/CN越境EC市場規模2023-1.png"
 														alt class="img-responsive wp-image-17405"
-														srcset="https://www.inagora.com/wp-content/uploads/2023/03/CN越境EC市場規模2023-1-200x144.png 200w, https://www.inagora.com/wp-content/uploads/2023/03/CN越境EC市場規模2023-1-400x288.png 400w, https://www.inagora.com/wp-content/uploads/2023/03/CN越境EC市場規模2023-1-600x431.png 600w, https://www.inagora.com/wp-content/uploads/2023/03/CN越境EC市場規模2023-1-800x575.png 800w, https://www.inagora.com/wp-content/uploads/2023/03/CN越境EC市場規模2023-1-1200x863.png 1200w, https://www.inagora.com/wp-content/uploads/2023/03/CN越境EC市場規模2023-1.png 2601w"
+														srcset="./assets/img/CN越境EC市場規模2023-1-200x144.png 200w, ./assets/img/CN越境EC市場規模2023-1-400x288.png 400w, ./assets/img/CN越境EC市場規模2023-1-600x431.png 600w, ./assets/img/CN越境EC市場規模2023-1-800x575.png 800w, ./assets/img/CN越境EC市場規模2023-1-1200x863.png 1200w, ./assets/img/CN越境EC市場規模2023-1.png 2601w"
 														sizes="(max-width: 800px) 100vw, 600px" /></span></div>
 										</div>
 										<div class="fusion-clearfix"></div>
@@ -705,9 +705,9 @@
 											<div class="imageframe-align-center"><span
 													class=" fusion-imageframe imageframe-none imageframe-5 hover-type-none"><img
 														width="3137" height="2064" title="中国化粧品輸入額推移"
-														src="https://www.inagora.com/wp-content/uploads/2023/03/中国化粧品輸入額推移.png"
+														src="./assets/img/中国化粧品輸入額推移.png"
 														alt class="img-responsive wp-image-17439"
-														srcset="https://www.inagora.com/wp-content/uploads/2023/03/中国化粧品輸入額推移-200x132.png 200w, https://www.inagora.com/wp-content/uploads/2023/03/中国化粧品輸入額推移-400x263.png 400w, https://www.inagora.com/wp-content/uploads/2023/03/中国化粧品輸入額推移-600x395.png 600w, https://www.inagora.com/wp-content/uploads/2023/03/中国化粧品輸入額推移-800x526.png 800w, https://www.inagora.com/wp-content/uploads/2023/03/中国化粧品輸入額推移-1200x790.png 1200w, https://www.inagora.com/wp-content/uploads/2023/03/中国化粧品輸入額推移.png 3137w"
+														srcset="./assets/img/中国化粧品輸入額推移-200x132.png 200w, ./assets/img/中国化粧品輸入額推移-400x263.png 400w, ./assets/img/中国化粧品輸入額推移-600x395.png 600w, ./assets/img/中国化粧品輸入額推移-800x526.png 800w, ./assets/img/中国化粧品輸入額推移-1200x790.png 1200w, ./assets/img/中国化粧品輸入額推移.png 3137w"
 														sizes="(max-width: 800px) 100vw, 600px" /></span></div>
 										</div>
 										<div class="fusion-text fusion-text-40">
@@ -729,9 +729,9 @@
 											<div class="imageframe-align-center"><span
 													class=" fusion-imageframe imageframe-none imageframe-6 hover-type-none"><img
 														width="3196" height="2126" title="天猫国際における消費財販売国Top10とシェア推移"
-														src="https://www.inagora.com/wp-content/uploads/2023/03/天猫国際における消費財販売国Top10とシェア推移-2.png"
+														src="./assets/img/天猫国際における消費財販売国Top10とシェア推移-2.png"
 														alt class="img-responsive wp-image-17443"
-														srcset="https://www.inagora.com/wp-content/uploads/2023/03/天猫国際における消費財販売国Top10とシェア推移-2-200x133.png 200w, https://www.inagora.com/wp-content/uploads/2023/03/天猫国際における消費財販売国Top10とシェア推移-2-400x266.png 400w, https://www.inagora.com/wp-content/uploads/2023/03/天猫国際における消費財販売国Top10とシェア推移-2-600x399.png 600w, https://www.inagora.com/wp-content/uploads/2023/03/天猫国際における消費財販売国Top10とシェア推移-2-800x532.png 800w, https://www.inagora.com/wp-content/uploads/2023/03/天猫国際における消費財販売国Top10とシェア推移-2-1200x798.png 1200w, https://www.inagora.com/wp-content/uploads/2023/03/天猫国際における消費財販売国Top10とシェア推移-2.png 3196w"
+														srcset="./assets/img/天猫国際における消費財販売国Top10とシェア推移-2-200x133.png 200w, ./assets/img/天猫国際における消費財販売国Top10とシェア推移-2-400x266.png 400w, ./assets/img/天猫国際における消費財販売国Top10とシェア推移-2-600x399.png 600w, ./assets/img/天猫国際における消費財販売国Top10とシェア推移-2-800x532.png 800w, ./assets/img/天猫国際における消費財販売国Top10とシェア推移-2-1200x798.png 1200w, ./assets/img/天猫国際における消費財販売国Top10とシェア推移-2.png 3196w"
 														sizes="(max-width: 800px) 100vw, 600px" /></span></div>
 										</div>
 										<div class="fusion-text fusion-text-42">

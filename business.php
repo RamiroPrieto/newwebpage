@@ -97,9 +97,9 @@
 																<div class="fusion-carousel-item-wrapper">
 																	<div class="fusion-image-wrapper hover-type-none">
 																		<img width="800" height="1422"
-																			src="https://www.inagora.com/wp-content/uploads/2019/07/info_nipponkodo_01.jpg"
+																			src="./assets/img/info_nipponkodo_01.jpg"
 																			class="attachment-full size-full" alt=""
-																			srcset="https://www.inagora.com/wp-content/uploads/2019/07/info_nipponkodo_01-169x300.jpg 169w, https://www.inagora.com/wp-content/uploads/2019/07/info_nipponkodo_01-200x356.jpg 200w, https://www.inagora.com/wp-content/uploads/2019/07/info_nipponkodo_01-400x711.jpg 400w, https://www.inagora.com/wp-content/uploads/2019/07/info_nipponkodo_01-576x1024.jpg 576w, https://www.inagora.com/wp-content/uploads/2019/07/info_nipponkodo_01-600x1067.jpg 600w, https://www.inagora.com/wp-content/uploads/2019/07/info_nipponkodo_01-768x1365.jpg 768w, https://www.inagora.com/wp-content/uploads/2019/07/info_nipponkodo_01.jpg 800w"
+																			srcset="./assets/img/info_nipponkodo_01-169x300.jpg 169w, ./assets/img/info_nipponkodo_01-200x356.jpg 200w, ./assets/img/info_nipponkodo_01-400x711.jpg 400w, ./assets/img/info_nipponkodo_01-576x1024.jpg 576w, ./assets/img/info_nipponkodo_01-600x1067.jpg 600w, ./assets/img/info_nipponkodo_01-768x1365.jpg 768w, ./assets/img/info_nipponkodo_01.jpg 800w"
 																			sizes="(max-width: 800px) 100vw, 800px"
 																			pagespeed_url_hash="1554680912"
 																			onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
@@ -198,9 +198,9 @@
 																<div class="fusion-carousel-item-wrapper">
 																	<div class="fusion-image-wrapper hover-type-none">
 																		<img width="800" height="1422"
-																			src="https://www.inagora.com/wp-content/uploads/2019/07/info_mamabutter_01.jpg"
+																			src="./assets/img/info_mamabutter_01.jpg"
 																			class="attachment-full size-full" alt=""
-																			srcset="https://www.inagora.com/wp-content/uploads/2019/07/info_mamabutter_01-169x300.jpg 169w, https://www.inagora.com/wp-content/uploads/2019/07/info_mamabutter_01-200x356.jpg 200w, https://www.inagora.com/wp-content/uploads/2019/07/info_mamabutter_01-400x711.jpg 400w, https://www.inagora.com/wp-content/uploads/2019/07/info_mamabutter_01-576x1024.jpg 576w, https://www.inagora.com/wp-content/uploads/2019/07/info_mamabutter_01-600x1067.jpg 600w, https://www.inagora.com/wp-content/uploads/2019/07/info_mamabutter_01-768x1365.jpg 768w, https://www.inagora.com/wp-content/uploads/2019/07/info_mamabutter_01.jpg 800w"
+																			srcset="./assets/img/info_mamabutter_01-169x300.jpg 169w, ./assets/img/info_mamabutter_01-200x356.jpg 200w, ./assets/img/info_mamabutter_01-400x711.jpg 400w, ./assets/img/info_mamabutter_01-576x1024.jpg 576w, ./assets/img/info_mamabutter_01-600x1067.jpg 600w, ./assets/img/info_mamabutter_01-768x1365.jpg 768w, ./assets/img/info_mamabutter_01.jpg 800w"
 																			sizes="(max-width: 800px) 100vw, 800px"
 																			pagespeed_url_hash="78830129"
 																			onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
@@ -324,9 +324,7 @@
 
 
 	<section class="to-top-container to-top-right" aria-labelledby="awb-to-top-label">
-		<a href="#" id="toTop" class="fusion-top-top-link">
-			<span id="awb-to-top-label" class="screen-reader-text">Go to Top</span>
-		</a>
+
 	</section>
 </body>
 
