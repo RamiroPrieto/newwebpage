@@ -103,7 +103,7 @@
 <span class="wpcf7-form-control-wrap sales"><input type="text" name="sales" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false"></span>　</label></p>
 <p><label> 中国での販売状況<br>
 <span class="wpcf7-form-control-wrap situation"><input type="text" name="situation" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false"></span> </label></p>
-<p><label>どちらでインアゴーラ/豌豆(ワンドウ)プラットフォームを知りましたか？<br>
+<p><label>どちらでBugle Link/豌豆(ワンドウ)プラットフォームを知りましたか？<br>
     <span class="wpcf7-form-control-wrap text-where-know-wandou"><input type="text" name="text-where-know-wandou" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false"></span></label></p>
 <p><label> メッセージ本文<br>
     <span class="wpcf7-form-control-wrap your-message"><textarea style="width: 100%" name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required" aria-required="true" aria-invalid="false"></textarea></span> </label></p>

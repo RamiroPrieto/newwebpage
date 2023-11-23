@@ -95,7 +95,7 @@
 <span class="wpcf7-form-control-wrap text-url"><input type="text" name="text-url" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false"></span> </label></p>
 <p><label> メッセージ本文<br>
     <span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" style="width: 100%" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false"></textarea></span> </label></p>
-<p><label>どちらでインアゴーラ/豌豆(ワンドウ)プラットフォームを知りましたか？<br>
+<p><label>どちらでBugle Link/豌豆(ワンドウ)プラットフォームを知りましたか？<br>
     <span class="wpcf7-form-control-wrap text-where-know"><input type="text" name="text-where-know" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false"></span></label></p>
 <p><label>弊社からのお知らせメール（越境ECセミナー等）<br>
 <span class="wpcf7-form-control-wrap checkbox-966"><span class="wpcf7-form-control wpcf7-checkbox"><span class="wpcf7-list-item first last"><input type="checkbox" name="checkbox-966[]" value="希望する"><span class="wpcf7-list-item-label">希望する</span></span></span></span></label></p>

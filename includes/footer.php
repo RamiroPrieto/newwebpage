@@ -28,8 +28,7 @@
                         style="border-style: solid;border-color:transparent;border-width:0px;">
                         <div class="textwidget custom-html-widget">
                             <div style="color:#FFFFFF;font-size:12px;">
-                                Inagoraホールディングス株式会社<br>
-                                Inagora株式会社<br>
+                                株式会社***<br>
                                 〒162-0845<br>東京都新宿区市谷本村町1丁目1番 <br>住友市ヶ谷ビル6F</div>
 
                             <script
@@ -47,13 +46,13 @@
                                 <ul class="menu" style="margin-bottom:1em;margin-bottom:50px;">
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-10542"
                                         style="padding-bottom:0.5em;"><strong><a
-                                                href="https://www.inagora.com/company/">企業情報</a></strong></li>
+                                                href="company">企業情報</a></strong></li>
                                     <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12956"
                                         style="padding-left:1em;"><a href="/company/#mission"
                                             class="fusion-button footer-link" target="_self" rel="noopener">ミッション</a>
-                                    </li>=
-                                    <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12961"
-                                        style="padding-left:1em;"><a href="/company/#info"
+                                    </li>
+                                    <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12960"
+                                        style="padding-left:1em;"><a href="company"
                                             class="fusion-button footer-link" target="_self" rel="noopener">企業情報</a>
                                     </li>
                                 </ul>
@@ -71,22 +70,22 @@
                                 <ul class="menu" style="margin-bottom:1em;">
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12058"
                                         style="padding-bottom:0.5em;"><strong><a
-                                                href="https://www.inagora.com/business/">事業内容</a></strong></li>
+                                                href="business">事業内容</a></strong></li>
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12968"
                                         style="padding-left:1em;"><a
-                                            href="https://www.inagora.com/business/">事業内容｜越境EC事業</a></li>
+                                            href="business">事業内容｜越境EC事業</a></li>
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12968"
                                         style="padding-left:1em;"><a
-                                            href="https://www.inagora.com/platform/">プラットフォーム事業</a></li>
+                                            href="platform">プラットフォーム事業</a></li>
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12967"
                                         style="padding-left:1em;"><a
-                                            href="https://www.inagora.com/brand_incubation/">ブランドインキュベーション事業</a></li>
+                                            href="brand_incubation">ブランドインキュベーション事業</a></li>
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12966"
-                                        style="padding-left:1em;"><a href="https://www.inagora.com/lazada/">東南アジア事業</a>
+                                        style="padding-left:1em;"><a href="southeast_asia_taiwan">東南アジア事業</a>
                                     </li>
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12969"
                                         style="padding-left:1em;"><a
-                                            href="https://www.inagora.com/crossborder/">越境ECとは？市場規模について</a></li>
+                                            href="crossborder">越境ECとは？市場規模について</a></li>
                                 </ul>
 
 
@@ -107,7 +106,7 @@
                                 <ul class="menu" style="margin-bottom:1em;">
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8631"
                                         style="padding-bottom:0.5em;"><strong><a
-                                                href="https://www.inagora.com/privacypolicy/">個人情報保護方針</a></strong></li>
+                                                href="privacypolicy">個人情報保護方針</a></strong></li>
                                 </ul>
                             </nav>
                         </div>
