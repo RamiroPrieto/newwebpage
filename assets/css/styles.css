@@ -51153,3 +51153,16 @@ a.fusion-button.button-flat.fusion-button-default-size.button-default.fusion-but
     background-color: rgb(117, 158, 255) !important;
 
 }
+.confirmSend{
+    text-align: center; background-color: white; height: 700px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.confirmLink{
+    color: white;
+    background-color: rgb(117, 158, 255) !important;
+    padding: 5px 10px;
+}

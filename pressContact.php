@@ -35,11 +35,16 @@
     ";
               $headers = "MIME-Version: 1.0\r\n";
               $headers .= "Content-type: text/html; charset=iso-8859-1\r\n";
-              $headers .= "From: info@equipmentforest.com\r\n";
-              $rta = @mail('ramiro.mpdev@gmail.com', 'Web CONTACT', $message, $headers);
+              $headers .= "From: contact@bugle-link.com\r\n";
+              $rta = @mail('contact@bugle-link.com', 'Web CONTACT', $message, $headers);
               if ($rta) {
                 $flag_send = true;
-                echo '<h4 style="text-align: center; margin: 70px 0px;">クエリが送信されました</h4>';
+                echo '<h4 class="confirmSend" >
+<div>
+  クエリが送信されました
+</div>
+<a class="confirmLink" href="./index.php">メインページに戻る</a>
+</h4>';
               }
             }
 

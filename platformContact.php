@@ -39,11 +39,16 @@
     ";
               $headers = "MIME-Version: 1.0\r\n";
               $headers .= "Content-type: text/html; charset=iso-8859-1\r\n";
-              $headers .= "From: info@equipmentforest.com\r\n";
-              $rta = @mail('ramiro.mpdev@gmail.com', 'Web CONTACT', $message, $headers);
+              $headers .= "From: contact@bugle-link.com\r\n";
+              $rta = @mail('contact@bugle-link.com', 'Web CONTACT', $message, $headers);
               if ($rta) {
                 $flag_send = true;
-                echo '<h4 style="text-align: center; margin: 70px 0px;">クエリが送信されました</h4>';
+                echo '<h4 class="confirmSend" >
+<div>
+  クエリが送信されました
+</div>
+<a class="confirmLink" href="./index.php">メインページに戻る</a>
+</h4>';
               }
             }
 
@@ -108,7 +113,7 @@
 <p><label> メッセージ本文<br>
     <span class="wpcf7-form-control-wrap your-message"><textarea style="width: 100%" name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required" aria-required="true" aria-invalid="false"></textarea></span> </label></p>
 <p>※お返事に1週間程度頂きます。</p>
-<p><input type="submit" value="買う" style="font-size: 10px;" </span></p>
+<p><input type="submit" value="送信" class="wpcf7-form-control has-spinner wpcf7-submit"><span class="wpcf7-spinner"></span></p>
 <p style="display: none !important;"><label>Δ<textarea name="_wpcf7_ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="_wpcf7_ak_js" value="1700575503584"><script>document.getElementById("ak_js_1").setAttribute("value",(new Date()).getTime());</script></p><div style="display: none" class="fusion-alert alert custom alert-custom fusion-alert-center wpcf7-response-output fusion-alert-capitalize awb-alert-native-link-color alert-dismissable awb-alert-close-boxed" style="--awb-border-top-left-radius:0px;--awb-border-top-right-radius:0px;--awb-border-bottom-left-radius:0px;--awb-border-bottom-right-radius:0px;" role="alert"><div class="fusion-alert-content-wrapper"><span class="fusion-alert-content"></span></div><button type="button" class="close toggle-alert" data-dismiss="alert" aria-label="Close">×</button></div></form></div><div class="fusion-clearfix"></div></div></div><div class="fusion-layout-column fusion_builder_column fusion-builder-column-2 fusion_builder_column_1_5 1_5 fusion-one-fifth fusion-column-last" style="--awb-bg-size:cover;width:20%;width:calc(20% - ( ( 4% + 4% ) * 0.2 ) );"><div class="fusion-column-wrapper fusion-flex-column-wrapper-legacy"><div class="fusion-clearfix"></div></div></div></div></div>
 							</div>
 																													</div>
