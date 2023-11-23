@@ -18,7 +18,7 @@
                                 }
                             </style>
 
-                            <img src="https://www.inagora.com/wp-content/uploads/2022/07/豌豆logoinagora组合标志-白.png"
+                            <img src="./assets/img/BUGLE.png"
                                 alt="Inagora|豌豆公主 東京・北京・香港">
                         </div>
                         <div style="clear:both;"></div>

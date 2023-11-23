@@ -51166,3 +51166,20 @@ a.fusion-button.button-flat.fusion-button-default-size.button-default.fusion-but
     background-color: rgb(117, 158, 255) !important;
     padding: 5px 10px;
 }
+
+h1.fusion-title-heading.title-heading-center{
+    text-align: center;
+    font-size: 30px !important;
+}
+
+.fusion-text{
+    margin-top: 30px;
+}
+/* 
+.fusion-text.fusion-text-17{
+    margin-top: 30px;
+}
+
+.fusion-text.fusion-text-21{
+    margin-top: 35px;
+} */

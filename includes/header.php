@@ -7,7 +7,7 @@
 			<a class="fusion-logo-link" href="./index.php">
 
 						<!-- standard logo -->
-			<img src="https://www.inagora.com/wp-content/uploads/2017/11/brand-logo.png" srcset="https://www.inagora.com/wp-content/uploads/2017/11/brand-logo.png 1x, https://www.inagora.com/wp-content/uploads/2017/12/brand-logo_1@2x.png 2x" width="99" height="26" style="max-height:26px;height:auto;" alt="越境ECプラットフォーム / Inagora株式会社 ロゴ" data-retina_logo_url="https://www.inagora.com/wp-content/uploads/2017/12/brand-logo_1@2x.png" class="fusion-standard-logo"/>
+			<img src="./assets/img/BUGLE.png" srcset="./assets/img/BUGLE.png 1x, https://www.inagora.com/wp-content/uploads/2017/12/brand-logo_1@2x.png 2x" width="99" height="26" style="max-height:26px;height:auto;" alt="越境ECプラットフォーム / Inagora株式会社 ロゴ" data-retina_logo_url="https://www.inagora.com/wp-content/uploads/2017/12/brand-logo_1@2x.png" class="fusion-standard-logo"/>
 
 			
 					</a>
