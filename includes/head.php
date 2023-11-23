@@ -119,7 +119,7 @@ var el=document.getElementById(e.c);if(el!==null&&el)el.style.height=newh+"px";e
 <script type='text/javascript' id='contact-form-7-js-extra'>//<![CDATA[
 var wpcf7={"api":{"root":"https:\/\/www.inagora.com\/wp-json\/","namespace":"contact-form-7\/v1"}};
 //]]></script>
-<script type='text/javascript' src='https://www.inagora.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.5.6.1' id='contact-form-7-js'></script>
+<!-- <script type='text/javascript' src='https://www.inagora.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.5.6.1' id='contact-form-7-js'></script> -->
 <script type='text/javascript' src='https://www.inagora.com/wp-content/plugins/revslider/public/assets/js/rbtools.min.js?ver=6.6.17' defer async id='tp-tools-js'></script>
 <script type='text/javascript' src='https://www.inagora.com/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.6.17' defer async id='revmin-js'></script>
 <script type='text/javascript' id='va-social-buzz-js-extra'>//<![CDATA[
