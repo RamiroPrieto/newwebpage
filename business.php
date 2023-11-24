@@ -296,7 +296,7 @@
 												<div class="fusion-column-wrapper fusion-flex-column-wrapper-legacy">
 													<div class="fusion-aligncenter"><a
 															class="fusion-button button-flat button-xlarge button-default fusion-button-default button-3 fusion-button-default-span fusion-button-default-type"
-															target="_self" href="./contact.php"><span
+															target="_self" href="contact"><span
 																class="fusion-button-text">→ お問い合わせ</span></a></div>
 													<div class="fusion-clearfix"></div>
 												</div>

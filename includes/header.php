@@ -7,7 +7,7 @@
 			<a class="fusion-logo-link" href="./index.php">
 
 						<!-- standard logo -->
-			<img src="./assets/img/BUGLE.png" srcset="./assets/img/BUGLE.png 1x, https://www.inagora.com/wp-content/uploads/2017/12/brand-logo_1@2x.png 2x" width="99" height="26" style="max-height:26px;height:auto;" alt="越境ECプラットフォーム / Inagora株式会社 ロゴ" data-retina_logo_url="https://www.inagora.com/wp-content/uploads/2017/12/brand-logo_1@2x.png" class="fusion-standard-logo"/>
+			<img src="./assets/img/BUGLE.png" srcset="./assets/img/BUGLE.png 1x, ./assets/img/BUGLE.png 2x" width="99" height="26" style="max-height:26px;height:auto;" alt="越境ECプラットフォーム / Inagora株式会社 ロゴ" data-retina_logo_url="https://www.inagora.com/wp-content/uploads/2017/12/brand-logo_1@2x.png" class="fusion-standard-logo"/>
 
 			
 					</a>
@@ -34,7 +34,7 @@
         <li id="menu-item-14205" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14205 fusion-dropdown-submenu"><a href="brand_incubation" class="fusion-bar-highlight"><span>ブランドインキュベーション事業</span></a></li>
             <li id="menu-item-15222" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15222 fusion-dropdown-submenu"><a href="southeast_asia_taiwan" class="fusion-bar-highlight"><span>東南アジア・台湾事業</span></a></li><li id="menu-item-15826" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15826 fusion-dropdown-submenu"><a href="inbound_business" class="fusion-bar-highlight"><span>インバウンド・地方創生</span></a></li></ul></li><li id="menu-item-11598" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11598" data-item-id="11598"><a href="crossborder" class="fusion-bar-highlight"><span class="menu-text">市場環境</span></a></li>
            
-            <li id="menu-item-8609" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8609 fusion-menu-item-button" data-item-id="8609"><a href="/contact" class="fusion-bar-highlight"><span class="menu-text fusion-button button-default button-medium">お問い合わせ</span></a></li></ul></nav>	<div class="fusion-mobile-menu-icons">
+            <li id="menu-item-8609" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8609 fusion-menu-item-button" data-item-id="8609"><a href="contact" class="fusion-bar-highlight"><span class="menu-text fusion-button button-default button-medium">お問い合わせ</span></a></li></ul></nav>	<div class="fusion-mobile-menu-icons">
 							<a href="#" class="fusion-icon awb-icon-bars" aria-label="Toggle mobile menu" aria-expanded="false"></a>
 		
 		

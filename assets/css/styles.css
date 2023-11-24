@@ -17210,7 +17210,7 @@ html.avada-has-site-width-percent.avada-has-site-width-100-percent .fusion-page-
 }
 
 .fusion-modal h1,.fusion-post-content h1,.fusion-tb-footer h1,.fusion-tb-page-title-bar h1,.fusion-widget-area h1,.post-content h1,.search-page-search-form h1,.title h1,h1 {
-    color: var(--h1_typography-color)
+    color: white;
 }
 
 h1 {

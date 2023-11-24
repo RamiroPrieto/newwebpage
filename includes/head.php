@@ -5,11 +5,11 @@
 	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'/>
 
 	<!-- This site is optimized with the Yoast SEO plugin v18.4.1 - https://yoast.com/wordpress/plugins/seo/ -->
-	<title>越境ECプラットフォーム | Inagora株式会社</title>
+	<title>Bugle Link</title>
 	<link rel="canonical" href="https://54.95.96.242/"/>
 	<meta property="og:locale" content="ja_JP"/>
 	<meta property="og:type" content="website"/>
-	<meta property="og:title" content="越境ECプラットフォーム | Inagora株式会社"/>
+	<meta property="og:title" content="Bugle Link"/>
 	<meta property="og:url" content="https://54.95.96.242/"/>
 	<meta property="og:site_name" content="越境ECプラットフォーム / Inagora株式会社"/>
 	<meta property="article:modified_time" content="2023-07-20T02:12:49+00:00"/>
