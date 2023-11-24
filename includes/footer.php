@@ -19,7 +19,7 @@
                             </style>
 
                             <img src="./assets/img/BUGLE.png"
-                                alt="Inagora|豌豆公主 東京・北京・香港">
+                                alt="Inagora|bugle公主 東京・北京・香港">
                         </div>
                         <div style="clear:both;"></div>
                     </section>
@@ -48,7 +48,7 @@
                                         style="padding-bottom:0.5em;"><strong><a
                                                 href="company">企業情報</a></strong></li>
                                     <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12956"
-                                        style="padding-left:1em;"><a href="/company/#mission"
+                                        style="padding-left:1em;"><a href="company"
                                             class="fusion-button footer-link" target="_self" rel="noopener">ミッション</a>
                                     </li>
                                     <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12960"
@@ -76,16 +76,13 @@
                                             href="business">事業内容｜越境EC事業</a></li>
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12968"
                                         style="padding-left:1em;"><a
-                                            href="platform">プラットフォーム事業</a></li>
+                                            href="crossborder">越境ECとは？市場規模について</a></li>
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12967"
                                         style="padding-left:1em;"><a
                                             href="brand_incubation">ブランドインキュベーション事業</a></li>
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12966"
                                         style="padding-left:1em;"><a href="southeast_asia_taiwan">東南アジア事業</a>
                                     </li>
-                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12969"
-                                        style="padding-left:1em;"><a
-                                            href="crossborder">越境ECとは？市場規模について</a></li>
                                 </ul>
 
 

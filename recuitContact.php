@@ -35,8 +35,8 @@
     ";
               $headers = "MIME-Version: 1.0\r\n";
               $headers .= "Content-type: text/html; charset=iso-8859-1\r\n";
-              $headers .= "From: contact@bugle-link.com\r\n";
-              $rta = @mail('contact@bugle-link.com', 'Web CONTACT', $message, $headers);
+              $headers .= "From: contact@Bugle-link.com\r\n";
+              $rta = @mail('contact@Bugle-link.com', 'Web CONTACT', $message, $headers);
               if ($rta) {
                 $flag_send = true;
                 echo '<h4 class="confirmSend" >
