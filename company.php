@@ -71,16 +71,17 @@
 															<p
 																style="text-align: center; padding-top: 40px; line-height: 1.4em; font-weight: bold;">
 																<span style="display: inline-block;"><span
-																		style="font-size: 50px; letter-spacing: 0px;">ショッピング</span></span><span
+																		style="font-size: 50px; letter-spacing: 0px;">世界に向けたショッピングを
+</span></span><span
 																	style="display: inline-block;"><span
-																		style="font-size: 50px; letter-spacing: 4px;">に国境はない</span></span>
+																		style="font-size: 50px; letter-spacing: 4px;"></span></span>
 															</p>
 														</div>
 														<div class="fusion-text fusion-text-2">
 															<p
 																style="text-align: center; font-size: 18px; line-height: 2em; margin-top: 60px; margin-bottom: 60px;">
 																<strong><span
-																		style="display: inline-block;">日本の優れた商品やサービスを、中国を始めとする</span><span
+																		style="display: inline-block;">日本の優れた商品やサービスを</span><span
 																		style="display: inline-block;">世界のお客様に提供することがBugle Linkの使命です。</span></strong>
 															</p>
 														</div>
@@ -114,7 +115,7 @@
 																style="text-align: center; font-size: 18px; line-height: 2em; padding-bottom: 10px; margin-bottom: 0px; margin-top: 30px;">
 																<span
 																	style="display: inline-block;">日本の優れた商品やサービスを</span><span
-																	style="display: inline-block;">中国を始めとする</span><span
+																	style="display: inline-block;"></span><span
 																	style="display: inline-block;">世界のお客様に提供することが</span><span
 																	style="display: inline-block;">Bugle Linkの使命です。</span>
 															</p>
@@ -152,71 +153,6 @@
 												<div class="fusion-text fusion-text-5">
 													<p style="text-align: center;"><span
 															style="font-size: 28px;">事業概要</span></p>
-												</div>
-											</div>
-										</div>
-										<div class="fusion-layout-column fusion_builder_column fusion-builder-column-5 fusion_builder_column_1_2 1_2 fusion-flex-column"
-											style="--awb-bg-size:cover;--awb-width-large:50%;--awb-margin-top-large:32px;--awb-spacing-right-large:3.84%;--awb-margin-bottom-large:0px;--awb-spacing-left-large:3.84%;--awb-width-medium:100%;--awb-order-medium:0;--awb-spacing-right-medium:1.92%;--awb-spacing-left-medium:1.92%;--awb-width-small:100%;--awb-order-small:0;--awb-spacing-right-small:1.92%;--awb-spacing-left-small:1.92%;">
-											<div
-												class="fusion-column-wrapper fusion-column-has-shadow fusion-flex-justify-content-flex-start fusion-content-layout-column">
-												<div class="fusion-image-element "
-													style="text-align:center;--awb-caption-title-font-family:var(--h2_typography-font-family);--awb-caption-title-font-weight:var(--h2_typography-font-weight);--awb-caption-title-font-style:var(--h2_typography-font-style);--awb-caption-title-size:var(--h2_typography-font-size);--awb-caption-title-transform:var(--h2_typography-text-transform);--awb-caption-title-line-height:var(--h2_typography-line-height);--awb-caption-title-letter-spacing:var(--h2_typography-letter-spacing);">
-													<span
-														class=" fusion-imageframe imageframe-none imageframe-1 hover-type-none"><img
-															width="240" height="33" title="inagora-china"
-															src="./assets/img/inagora-china.png"
-															alt class="img-responsive wp-image-15157"
-															srcset="./assets/img/inagora-china-200x28.png 200w, ./assets/img/inagora-china.png 240w"
-															sizes="(max-width: 1024px) 100vw, (max-width: 640px) 100vw, 240px" /></span>
-												</div>
-												<div class="fusion-builder-row fusion-builder-row-inner fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap"
-													style="width:104% !important;max-width:104% !important;margin-left: calc(-4% / 2 );margin-right: calc(-4% / 2 );">
-													<div class="fusion-layout-column fusion_builder_column_inner fusion-builder-nested-column-0 fusion_builder_column_inner_1_2 1_2 fusion-flex-column"
-														style="--awb-bg-size:cover;--awb-width-large:50%;--awb-margin-top-large:25px;--awb-spacing-right-large:3.84%;--awb-margin-bottom-large:0px;--awb-spacing-left-large:3.84%;--awb-width-medium:100%;--awb-order-medium:0;--awb-spacing-right-medium:1.92%;--awb-spacing-left-medium:1.92%;--awb-width-small:100%;--awb-order-small:0;--awb-spacing-right-small:1.92%;--awb-spacing-left-small:1.92%;">
-														<div
-															class="fusion-column-wrapper fusion-column-has-shadow fusion-flex-justify-content-flex-start fusion-content-layout-column">
-															<div class="fusion-text fusion-text-6">
-																<p style="text-align: center;"><strong>プラットフォーム<br />
-																		事業</strong></p>
-															</div>
-															<div class="fusion-image-element "
-																style="text-align:center;--awb-caption-title-font-family:var(--h2_typography-font-family);--awb-caption-title-font-weight:var(--h2_typography-font-weight);--awb-caption-title-font-style:var(--h2_typography-font-style);--awb-caption-title-size:var(--h2_typography-font-size);--awb-caption-title-transform:var(--h2_typography-text-transform);--awb-caption-title-line-height:var(--h2_typography-line-height);--awb-caption-title-letter-spacing:var(--h2_typography-letter-spacing);">
-																<span
-																	class=" fusion-imageframe imageframe-none imageframe-2 hover-type-zoomin"><a
-																		class="fusion-no-lightbox" href="/platform/"
-																		target="_self" aria-label="PF_202303"><img
-																			width="150" height="150"
-																			src="./assets/img/PF_202303-150x150.png"
-																			alt class="img-responsive wp-image-17410"
-																			srcset="./assets/img/PF_202303-200x200.png 200w, ./assets/img/PF_202303.png 291w"
-																			sizes="(max-width: 1024px) 100vw, (max-width: 640px) 100vw, 150px" /></a></span>
-															</div>
-														</div>
-													</div>
-													<div class="fusion-layout-column fusion_builder_column_inner fusion-builder-nested-column-1 fusion_builder_column_inner_1_2 1_2 fusion-flex-column"
-														style="--awb-bg-size:cover;--awb-width-large:50%;--awb-margin-top-large:25px;--awb-spacing-right-large:3.84%;--awb-margin-bottom-large:0px;--awb-spacing-left-large:3.84%;--awb-width-medium:100%;--awb-order-medium:0;--awb-spacing-right-medium:1.92%;--awb-spacing-left-medium:1.92%;--awb-width-small:100%;--awb-order-small:0;--awb-spacing-right-small:1.92%;--awb-spacing-left-small:1.92%;">
-														<div
-															class="fusion-column-wrapper fusion-column-has-shadow fusion-flex-justify-content-flex-start fusion-content-layout-column">
-															<div class="fusion-text fusion-text-7">
-																<p style="text-align: center;">
-																	<strong>ブランドインキュベーション<br />
-																		事業</strong></p>
-															</div>
-															<div class="fusion-image-element "
-																style="text-align:center;--awb-caption-title-font-family:var(--h2_typography-font-family);--awb-caption-title-font-weight:var(--h2_typography-font-weight);--awb-caption-title-font-style:var(--h2_typography-font-style);--awb-caption-title-size:var(--h2_typography-font-size);--awb-caption-title-transform:var(--h2_typography-text-transform);--awb-caption-title-line-height:var(--h2_typography-line-height);--awb-caption-title-letter-spacing:var(--h2_typography-letter-spacing);">
-																<span
-																	class=" fusion-imageframe imageframe-none imageframe-3 hover-type-zoomin"><a
-																		class="fusion-no-lightbox"
-																		href="/brand_incubation/" target="_self"
-																		aria-label="81e68b6f-c050-4cd9-8f95-7a60559b5b36"><img
-																			width="150" height="150"
-																			src="./assets/img/81e68b6f-c050-4cd9-8f95-7a60559b5b36-150x150.png"
-																			alt class="img-responsive wp-image-17467"
-																			srcset="./assets/img/81e68b6f-c050-4cd9-8f95-7a60559b5b36-200x200.png 200w, ./assets/img/81e68b6f-c050-4cd9-8f95-7a60559b5b36.png 291w"
-																			sizes="(max-width: 1024px) 100vw, (max-width: 640px) 100vw, 150px" /></a></span>
-															</div>
-														</div>
-													</div>
 												</div>
 											</div>
 										</div>
