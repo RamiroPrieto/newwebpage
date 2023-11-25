@@ -88,65 +88,13 @@
 																			data-bg="c:#fff6e5;" data-parallax="off"
 																			data-no-retina>
 																		<!--
-							--><rs-layer id="slider-2-slide-2-layer-2" data-type="image" data-rsp_ch="on"
-																			data-xy="xo:-132px,-132px,-155px,-155px;yo:36px,36px,89px,89px;"
-																			data-text="l:22;a:inherit;"
-																			data-dim="w:1174px,1071px,891px,891px;h:582px,531px,442px,442px;"
-																			data-frame_0="x:-50px;tp:600;"
-																			data-frame_1="tp:600;st:890;sp:1500;sR:890;"
-																			data-frame_999="o:0;tp:600;st:w;sR:6610;"
-																			style="z-index:5;"><img
-																				src="//www.inagora.com/wp-content/plugins/revslider/public/assets/assets/dummy.png"
-																				alt="" class="tp-rs-img rs-lazyload"
-																				width="2000" height="991"
-																				data-lazyload="//www.inagora.com/wp-content/uploads/2018/09/wandou-box-2.png"
-																				data-no-retina>
-																		</rs-layer><!--
+							-->
 
-							--><rs-layer id="slider-2-slide-2-layer-1" data-type="image" data-rsp_ch="on"
-																			data-xy="xo:-36px,-77px,-60px,-60px;yo:123px,124px,188px,188px;"
-																			data-text="l:22;a:inherit;"
-																			data-dim="w:944px,833px,651px,651px;h:468px,413px,323px,323px;"
-																			data-frame_0="x:-50px;tp:600;"
-																			data-frame_1="tp:600;sp:1000;sR:10;"
-																			data-frame_999="o:0;tp:600;st:w;sR:7990;"
-																			style="z-index:6;"><img
-																				src="//www.inagora.com/wp-content/plugins/revslider/public/assets/assets/dummy.png"
-																				alt="" class="tp-rs-img rs-lazyload"
-																				width="2000" height="991"
-																				data-lazyload="//www.inagora.com/wp-content/uploads/2018/09/wandou-box-1.png"
-																				data-no-retina>
-																		</rs-layer><!--
+							-->
 
-							--><rs-layer id="slider-2-slide-2-layer-7" data-type="image" data-rsp_ch="on"
-																			data-xy="xo:491px,423px,291px,291px;yo:146px,165px,172px,172px;"
-																			data-text="l:22;a:inherit;"
-																			data-dim="w:944px,799px,716px,716px;h:468px,396px,355px,355px;"
-																			data-frame_0="x:50px;tp:600;"
-																			data-frame_1="tp:600;st:2170;sp:1500;sR:2170;"
-																			data-frame_999="o:0;tp:600;st:w;sR:5330;"
-																			style="z-index:7;"><img
-																				src="//www.inagora.com/wp-content/plugins/revslider/public/assets/assets/dummy.png"
-																				alt="" class="tp-rs-img rs-lazyload"
-																				width="2000" height="991"
-																				data-lazyload="//www.inagora.com/wp-content/uploads/2018/09/wandou-box-2.png"
-																				data-no-retina>
-																		</rs-layer><!--
+							
 
-							--><rs-layer id="slider-2-slide-2-layer-11" data-type="image" data-rsp_ch="on"
-																			data-xy="xo:614px,538px,403px,403px;yo:223px,229px,234px,234px;"
-																			data-text="l:22;a:inherit;"
-																			data-dim="w:300px,255px,220px,220px;h:352px,300px,258px,258px;"
-																			data-frame_0="x:right;o:1;tp:600;"
-																			data-frame_1="tp:600;st:3560;sp:1140;sR:3560;"
-																			data-frame_999="o:0;tp:600;st:w;sR:4300;"
-																			style="z-index:8;"><img
-																				src="//www.inagora.com/wp-content/plugins/revslider/public/assets/assets/dummy.png"
-																				alt="" class="tp-rs-img rs-lazyload"
-																				width="1614" height="1896"
-																				data-lazyload="//www.inagora.com/wp-content/uploads/2019/07/screen_iphone2.png"
-																				data-no-retina>
-																		</rs-layer><!--
+							
 
 							--><rs-layer id="slider-2-slide-2-layer-9" data-type="text" data-color="#303030" data-rsp_ch="on"
 																			data-xy="x:c;xo:1px;yo:79px;"

@@ -51183,3 +51183,12 @@ h1.fusion-title-heading.title-heading-center{
 .fusion-text.fusion-text-21{
     margin-top: 35px;
 } */
+
+rs-fullwidth-wrap#rev_slider_2_1_forcefullwidth{
+    height: 400px;
+}
+
+rs-module#rev_slider_2_1{
+    height: 400px !important;
+
+}
