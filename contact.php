@@ -59,7 +59,7 @@
 													<h1 class="fusion-title-heading title-heading-left"
 														style="margin:0;">
 														<div style="line-height: 1.2em; text-align: center;">
-														プレスbr />
+														プレス
 													</h1>
 												</div>
 												<div class="fusion-align-block"><a
