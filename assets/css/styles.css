@@ -5189,6 +5189,12 @@ body .portfolio-grid {
     width: 100%
 }
 
+h4.p-service-contents__title.js-trigger.is-active{
+    font-size: 25px;
+    font-weight: 600;
+    color: rgb(117, 158, 255) !important;
+}
+
 .fusion-project-details-tb h3,.project-content h3 {
     font-size: 13px;
     line-height: 17px;

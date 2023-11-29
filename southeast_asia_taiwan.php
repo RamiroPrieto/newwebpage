@@ -12,50 +12,41 @@
 
 
 <main id="main" class="clearfix width-100">
-    <div class="fusion-fullwidth fullwidth-box fusion-builder-row-5 fusion-flex-container nonhundred-percent-fullwidth non-hundred-percent-height-scrolling"
-        style="--awb-border-radius-top-left:0px;--awb-border-radius-top-right:0px;--awb-border-radius-bottom-right:0px;--awb-border-radius-bottom-left:0px;--awb-padding-top:0px;--awb-margin-top:29px;--awb-flex-wrap:wrap;">
-        <div class="fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap"
-            style="max-width:1144px;margin-left: calc(-4% / 2 );margin-right: calc(-4% / 2 );">
-            <div class="fusion-layout-column fusion_builder_column fusion-builder-column-6 fusion_builder_column_1_1 1_1 fusion-flex-column"
-                style="--awb-bg-size:cover;--awb-width-large:100%;--awb-margin-top-large:51px;--awb-spacing-right-large:1.92%;--awb-margin-bottom-large:0px;--awb-spacing-left-large:1.92%;--awb-width-medium:100%;--awb-order-medium:0;--awb-spacing-right-medium:1.92%;--awb-spacing-left-medium:1.92%;--awb-width-small:100%;--awb-order-small:0;--awb-spacing-right-small:1.92%;--awb-spacing-left-small:1.92%;">
-                <div
-                    class="fusion-column-wrapper fusion-column-has-shadow fusion-flex-justify-content-flex-start fusion-content-layout-column">
-                    <div class="fusion-image-element "
-                        style="text-align:center;--awb-caption-title-font-family:var(--h2_typography-font-family);--awb-caption-title-font-weight:var(--h2_typography-font-weight);--awb-caption-title-font-style:var(--h2_typography-font-style);--awb-caption-title-size:var(--h2_typography-font-size);--awb-caption-title-transform:var(--h2_typography-text-transform);--awb-caption-title-line-height:var(--h2_typography-line-height);--awb-caption-title-letter-spacing:var(--h2_typography-letter-spacing);">
-                        <span class=" fusion-imageframe imageframe-none imageframe-3 hover-type-none"><img width="600"
-                                height="515" title="Lazada-map"
-                                src="./assets/img/Lazada-map-600x515.png" alt
-                                class="img-responsive wp-image-15081"
-                                srcset="./assets/img/Lazada-map-200x172.png 200w, ./assets/img/Lazada-map-400x343.png 400w, ./assets/img/Lazada-map-600x515.png 600w, ./assets/img/Lazada-map-800x686.png 800w, ./assets/img/Lazada-map.png 1067w"
-                                sizes="(max-width: 1024px) 100vw, (max-width: 640px) 100vw, 600px"
-                                pagespeed_url_hash="897702310"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);" /></span></div>
-                </div>
-            </div>
-        </div>
-    </div>
+  
     <div class="fusion-fullwidth fullwidth-box fusion-builder-row-6 nonhundred-percent-fullwidth non-hundred-percent-height-scrolling"
         style="--awb-border-radius-top-left:0px;--awb-border-radius-top-right:0px;--awb-border-radius-bottom-right:0px;--awb-border-radius-bottom-left:0px;--awb-padding-top:0%;--awb-padding-right:4%;--awb-padding-bottom:0%;--awb-padding-left:4%;--awb-margin-top:69px;--awb-margin-bottom:0%;--awb-flex-wrap:wrap;">
         <div class="fusion-builder-row fusion-row">
+        <div class="p-service-contents u-m-section">
+              <div class="p-service-contents--box">
+                <h4 class="p-service-contents__title js-trigger is-active">ダイレクトマーケティング</h4>
+                <div class="p-service-contents__text js-trigger is-active">
+                  <p>顧客データをフル活用し、一人ひとりに応じたプロモーションを実現し、貴社ビジネス・サービスの導入検討からクロージングまでをサポートします。今までのプロモーション結果を分析することで、各種DM提案をはじめ、ダイレクトにアプローチできるプランニングで、目的達成までの販促企画を提案します。​</p>
+                </div>
+              </div>
+              <div class="p-service-contents--box">
+                <h4 class="p-service-contents__title js-trigger is-active">データベースマーケティング</h4>
+                <div class="p-service-contents__text js-trigger is-active">
+                  <p>これまでの資料請求状況、WEBアクセス状況から、セグメントし、顧客によりそうサービスをご提供します。既存の顧客を継続的に管理してゆくことで、リアル営業のクロージング率の向上を狙います。</p>
+                  <p>主に見込み顧客の顧客化・ナーチャリングに重点を置いたマーケティング手法となります。デジタル化に躊躇するマーケティングオートメーション導入前の企業様にも、よりアナログな方法論でデータベースマーケティングの良い部分を導入ご提案いたします。</p>
+                </div>
+              </div>
+              <div class="p-service-contents--box">
+                <h4 class="p-service-contents__title js-trigger is-active">マーケティングミックス</h4>
+                <div class="p-service-contents__text js-trigger is-active">
+                  <p>マーケティング戦略の成果を出すために最適なマーケティングツールを組み合わせます。BtoBマーケティングで忘れがちな、消費者視点で見直す4Cの両方を同時に考慮します。</p>
+                  <div class="p-service-contents__text__tool">
+                    <p>製品（Product）＝顧客価値（Customer Value）</p>
+                    <p>価格（Price）＝顧客にとっての経費（Cost）</p>
+                    <p>プロモーション（Promotion）＝顧客とのコミュニケーション（Communication）</p>
+                    <p>流通（Place）＝顧客利便性（Convenience）</p>
+                  </div>
+                  <p>これら８つの要素のバランスに配慮したマーケティングミックスを実践しています。</p>
+                </div>
+              </div>
+            </div>
             <div class="fusion-layout-column fusion_builder_column fusion-builder-column-7 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last"
                 style="--awb-bg-size:cover;">
-                <div class="fusion-column-wrapper fusion-column-has-shadow fusion-flex-column-wrapper-legacy">
-                    <div class="fusion-text fusion-text-4">
-                        <p><span style="font-size: 25px;">東南アジアの市場環境について</span></p>
-                        <hr />
-                    </div>
-                    <div class="fusion-text fusion-text-5">
-                        <p>巨大なマーケット基盤を持つ東南アジアは、近年経済の急成長により消費者の購買力も増加しており、マーケットポテンシャルが非常に高い市場となっています。特に東南アジアのインターネット経済は早いスピードで成長を続けており、グーグルとシンガポールの政府系投資会社テマセク・ホールディングスが2019年に発表した、東南アジア諸国のデジタル経済に関するレポート「e-Conomy
-                            SEA report
-                            2019」によると、<b>東南アジア諸国連合（ASEAN）主要6カ国（インドネシア、マレーシア、フィリピン、シンガポール、タイ、ベトナム）の電子商取引（EC）の市場規模は、2015年時点の<span
-                                    style="font-size: 14.4px;"
-                                    data-fusion-font="true">5億ドル</span>から2019年時点で30億ドルへ、年平均成長率47％のペースで伸びており、2025年にはさらに120億ドルの市場規模へと成長が見込まれています</b>。（図1）<br />
-                            また、We Are
-                            Social（2019）によると、各国のEC利用率とネット普及率は以下（図2）の通りで、全人口比での<b>インターネット普及率は最も高いシンガポール、タイ、マレーシアで8割を超えています</b>。また、<b>インターネット利用者のEC利用率を見るとインドネシアは9割近くに上っています</b>。
-                        </p>
-                    </div>
-                    <div class="fusion-clearfix"></div>
-                </div>
+                
             </div>
             <div class="fusion-layout-column fusion_builder_column fusion-builder-column-8 fusion_builder_column_1_3 1_3 fusion-one-third fusion-column-first"
                 style="--awb-bg-size:cover;--awb-margin-top:14px;--awb-margin-bottom:46px;width:33.333333333333%;width:calc(33.333333333333% - ( ( 4% ) * 0.33333333333333 ) );margin-right: 4%;">
