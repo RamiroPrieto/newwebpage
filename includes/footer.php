@@ -73,15 +73,9 @@
                                                 href="business">事業内容</a></strong></li>
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12968"
                                         style="padding-left:1em;"><a
-                                            href="business">事業内容｜越境EC事業</a></li>
-                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12968"
-                                        style="padding-left:1em;"><a
-                                            href="crossborder">越境ECとは？市場規模について</a></li>
-                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12967"
-                                        style="padding-left:1em;"><a
-                                            href="brand_incubation">ブランドインキュベーション事業</a></li>
+                                            href="business">クリエイティブ事業</a></li>
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12966"
-                                        style="padding-left:1em;"><a href="southeast_asia_taiwan">東南アジア事業</a>
+                                        style="padding-left:1em;"><a href="southeast_asia_taiwan">マーケティングサポート事業</a>
                                     </li>
                                 </ul>
 
