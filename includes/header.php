@@ -57,12 +57,12 @@
 							<ul class="sub-menu">
 								<li id="menu-item-14203"
 									class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14203 fusion-dropdown-submenu">
-									<a href="./business.php" class="fusion-bar-highlight"><span>事業内容｜越境EC事業</span></a>
+									<a href="./business.php" class="fusion-bar-highlight"><span>クリエイティブ事業</span></a>
 								</li>
 								<li id="menu-item-15222"
 									class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15222 fusion-dropdown-submenu">
 									<a href="southeast_asia_taiwan"
-										class="fusion-bar-highlight"><span>東南アジア・台湾事業</span></a></li>
+										class="fusion-bar-highlight"><span>マーケティングサポート事業</span></a></li>
 							</ul>
 						</li>
 

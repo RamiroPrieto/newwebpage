@@ -62,7 +62,7 @@
 
                         <h1 class="entry-title fusion-responsive-typography-calculated" data-fontsize="20"
                           style="--fontSize: 20; line-height: 1.08; --minFontSize: 20;" data-lineheight="21.6px">
-                          東南アジア事業関連のお問い合わせ</h1>
+                          マーケティングサポート事業関連のお問い合わせ</h1>
 
 
 
@@ -77,7 +77,7 @@
                 <div class="fusion-row" style="">
                   <section id="content" style="width: 100%;">
                     <div id="post-14225" class="post-14225 page type-page status-publish hentry">
-                      <span class="entry-title rich-snippet-hidden">東南アジア事業関連のお問い合わせ</span>
+                      <span class="entry-title rich-snippet-hidden">マーケティングサポート事業関連のお問い合わせ</span>
 
                       <div class="post-content">
                         <div
